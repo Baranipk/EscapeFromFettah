@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ahmet/OneDrive/Masaüstü/escape-from-fettah/escape-from-fettah/Content/Font.spritefont</File>
+    <File>C:/Users/ahmet/OneDrive/Masaüstü/escape-from-fettah/escape-from-fettah/Content/road.png</File>
+    <File>C:/Users/ahmet/OneDrive/Masaüstü/escape-from-fettah/escape-from-fettah/Content/missile1.png</File>
+    <File>C:/Users/ahmet/OneDrive/Masaüstü/escape-from-fettah/escape-from-fettah/Content/missile2.png</File>
+    <File>C:/Users/ahmet/OneDrive/Masaüstü/escape-from-fettah/escape-from-fettah/Content/missile3.png</File>
+    <File>C:/Users/ahmet/OneDrive/Masaüstü/escape-from-fettah/escape-from-fettah/Content/static_road.png</File>
+    <File>C:/Users/ahmet/OneDrive/Masaüstü/escape-from-fettah/escape-from-fettah/Content/static_obstacle.png</File>
+    <File>C:/Users/ahmet/OneDrive/Masaüstü/escape-from-fettah/escape-from-fettah/Content/Hit.wav</File>
+    <File>C:/Users/ahmet/OneDrive/Masaüstü/escape-from-fettah/escape-from-fettah/Content/Hop.wav</File>
+    <File>C:/Users/ahmet/OneDrive/Masaüstü/escape-from-fettah/escape-from-fettah/Content/trump1.png</File>
+    <File>C:/Users/ahmet/OneDrive/Masaüstü/escape-from-fettah/escape-from-fettah/Content/trump2.png</File>
+    <File>C:/Users/ahmet/OneDrive/Masaüstü/escape-from-fettah/escape-from-fettah/Content/trump3.png</File>
+    <File>C:/Users/ahmet/OneDrive/Masaüstü/escape-from-fettah/escape-from-fettah/Content/music1.wav</File>
+    <File>C:/Users/ahmet/OneDrive/Masaüstü/escape-from-fettah/escape-from-fettah/Content/music2.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
