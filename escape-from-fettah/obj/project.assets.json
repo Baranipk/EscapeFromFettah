@@ -4164,11 +4164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\baran\\OneDrive\\Masaüstü\\ESCAPE-FROM-FETTAH\\escape-from-fettah\\escape-from-fettah.csproj",
+      "projectUniqueName": "C:\\ESCAPE-FROM-FETTAH\\EscapeFromFettah\\escape-from-fettah\\escape-from-fettah.csproj",
       "projectName": "escape-from-fettah",
-      "projectPath": "C:\\Users\\baran\\OneDrive\\Masaüstü\\ESCAPE-FROM-FETTAH\\escape-from-fettah\\escape-from-fettah.csproj",
+      "projectPath": "C:\\ESCAPE-FROM-FETTAH\\EscapeFromFettah\\escape-from-fettah\\escape-from-fettah.csproj",
       "packagesPath": "C:\\Users\\baran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\baran\\OneDrive\\Masaüstü\\ESCAPE-FROM-FETTAH\\escape-from-fettah\\obj\\",
+      "outputPath": "C:\\ESCAPE-FROM-FETTAH\\EscapeFromFettah\\escape-from-fettah\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\baran\\AppData\\Roaming\\NuGet\\NuGet.Config",

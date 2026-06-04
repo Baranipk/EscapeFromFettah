@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("escape-from-fettah")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62f6a45e733b240a322b7a0164cdffa05a91a5f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("escape-from-fettah")]
 [assembly: System.Reflection.AssemblyTitleAttribute("escape-from-fettah")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
